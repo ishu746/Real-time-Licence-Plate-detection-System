@@ -1,0 +1,6 @@
+.venv
+.idea
+dataset
+runs
+*.pt
+test-media
