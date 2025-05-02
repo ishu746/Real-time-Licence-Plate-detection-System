@@ -19,7 +19,7 @@ The text above the bounding box follows the folowing format: "&lt;ID-FOR-PLATE&g
 
 ## Getting Started
 
-1. Clone the repository:<br>`git clone https://github.com/tkjonesy/Real-Time-License-Plate-Detection.git`
+1. Clone the repository:<br>`git clone https://github.com/ishu746/Real-time-Licence-Plate-detection-System.git`
 2. Install the required packages: <br> `pip install -r requirements.txt`
 3. In main.py be sure to set video file or capture device: <br> `cap = cv2.VideoCapture('test-media/videotest.mp4')`
 
